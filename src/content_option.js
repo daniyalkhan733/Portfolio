@@ -11,6 +11,7 @@ const introdata = {
         second: "I Build Websites",
         third: "I develop mobile apps",
     },
+    resumeLink : "/Resume.pdf",
     description: "Expert React developer crafting seamless, scalable, and stunning web experiences.",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
@@ -73,9 +74,9 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "/images/edhi.png",
+        description: "Edhi Foundation UK design and development",
+        link: "https://edhiuk.org/services/ambulance-service",
     },
     {
         img: "https://picsum.photos/400/800/?grayscale",
