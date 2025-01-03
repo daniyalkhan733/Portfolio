@@ -1,3 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
 :root {
     --bg-color: #0c0c0c;
     --primary-color: #0d0d0d;
@@ -65,10 +71,14 @@ p {
     overflow: hidden;
 }
 
-.text_2,
-.text_2:hover {
-    color: var(--text-color-2);
+.text_2{
+    color: black;
+
 }
+.text_2:hover{
+    color: var(--text-color-3);
+}
+
 
 code {
     font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
