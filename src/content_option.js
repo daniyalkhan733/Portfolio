@@ -81,7 +81,7 @@ const dataportfolio = [{
     {
         img: "/images/virtual-visit.png",
         description: "Virtual Visit (3D Virtual Tour)",
-        link: "https://virtual-visit.netlify.app/",
+        link: "https://virtual-visit.netlify.app/tours",
     },
     {
         img: "/images/haf.png",
@@ -89,14 +89,19 @@ const dataportfolio = [{
         link: "https://humanaidfoundation.org/",
     },
     {
-        img: "/images/haf.png",
-        description: "Human Aid Foundation UK design and development",
-        link: "https://humanaidfoundation.org/",
+        img: "/images/current-care.png",
+        description: "A One-Stop Solution for all your Electronics Repair Needs",
+        link: "https://currentcaresolution.netlify.app/",
     },
     {
         img: "/images/crf.png",
         description: "Care And Relief UK design and development",
         link: "https://careandrelief.uk/",
+    },
+    {
+        img: "/images/virtual-visit-3d.png",
+        description: "3D Models of the House",
+        link: "https://virtual-visit.netlify.app/models/",
     },
    
 ];
