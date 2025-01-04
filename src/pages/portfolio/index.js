@@ -33,6 +33,7 @@ export const Portfolio = () => {
             );
           })}
         </div>
+        <h2 className="display-4 py-5 text-center"> More Projects Coming Soon... </h2>{" "}
       </Container>
 
     </HelmetProvider>
